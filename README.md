@@ -6,23 +6,24 @@ img src="https://https://user-images.githubusercontent.com/105393642/221899803-8
 </div>
 
 <h1>Código em c# Agenda </h1>
-Status:Developing
-It is the developement of an agenda.
+Status:Developing ⚠️
+ 
+<h2>It is the developement of an agenda.</h2>😊
 
 
 
-using System;
+##using System;
 
 public class Test
 {
 	public static void Main()
 	{
-		string título;
-		string descrição;
-		string data;
-		string horai;
-		string horaf;
-		string prioridade;
+		 string título;
+		 string descrição;
+		 string data;
+		 string horai;
+		 string horaf;
+		 string prioridade;
 		
 		Console.WriteLine("Bem Vindo Usuário");
 		
