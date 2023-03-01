@@ -1,5 +1,7 @@
 # anaguriaac-
 
+
+	
 ![Calendário 2023 ilustrado aquarela ](https://user-images.githubusercontent.com/105393642/221899803-8526fa22-6ccc-402b-aee6-eb66ff7b7359.jpg)
 <div aling-"center">
 img src="https://https://user-images.githubusercontent.com/105393642/221899803-8526fa22-6ccc-402b-aee6-eb66ff7b7359.jpg" width="300px" />
@@ -21,14 +23,14 @@ img src="https://https://user-images.githubusercontent.com/105393642/221899803-8
 * string horaf;
 * string prioridade;
 
-<h> Propriedade </h2>
+<h> Propriedade </h2> <br>
 
 * This agende captures the user's main tasks throughout the week
 * Like title, job description, date, start and end job hours and what is
-  the priority of the job example: High,Medium,Low.📅📅
+  the priority of the job example: High,Medium,Low.📅📅 
 
 * This project was created in mobile app. The app name is C#.📱
-* However, this project needs to be implemented whit data base .🗃️
+* However, this project needs to be implemented whit data base .🗃️ <br>
 
 I used sytem library to open the code
 giving me useful classes like Console and WriteLine.
